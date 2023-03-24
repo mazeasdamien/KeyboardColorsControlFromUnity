@@ -1,5 +1,7 @@
 # Custom Keyboard LED Controller for Unity and Corsair iCUE
 
+![image](https://user-images.githubusercontent.com/58029218/227429613-d6d5b7ea-18f3-452c-8bd5-fa7ed9e027b1.png)
+
 This project is a custom keyboard LED controller for Unity and Corsair iCUE-compatible devices. It enables users to change the background color of their Corsair keyboard using RGB sliders, apply a random color to individual keys when pressed, and toggle a "crazy mode" that continuously cycles the background color through random colors.
 
 ## Features
